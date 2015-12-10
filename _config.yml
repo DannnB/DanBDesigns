@@ -1,8 +1,8 @@
 # Site settings
-title:       DanB | Graphic & Web Designer
+title:        Graphic & Web Designer
 email:       info@danbdesigns.co.uk
 author:      Daniel Broughton
-description: "Dan B is a creative web and graphic designer from the midlands. Come check out his work."
+description: "Dan B is a creative web and graphic designer/developer from the midlands. Come check out his work."
 baseurl:     ""
 url:         "http://danbdesigns.co.uk"
 date_format: "%b %-d, %Y"
