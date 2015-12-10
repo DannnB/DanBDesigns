@@ -25,7 +25,7 @@ I have decided to create this challenge for myself so I can improve my skills in
 ###Challenge Outcome & New Years Resolution
 Be confident in Frontend development and be able to use Backend technologies to a decent standard. Create what I like and know the possibilities of each technology. As well as lend a hand to others who want to get into code.
 
-#####Week 1 
+#####Week 1 Start 10th
 
 1. Javascript + Final Project
 
@@ -39,7 +39,7 @@ Be confident in Frontend development and be able to use Backend technologies to 
 1. Finish AngularJS + Final Project
 2. Start Ruby + Final Project
 
-I have a 10 days off Work for Christmas, so as well as being merry I plan this to be my main week where I get a lot done. (That's the plan at least...I smell mice pies)
+I have a 10 days off for Christmas, so as well as being merry I plan this to be my main week where I get a lot done. (That's the plan at least...I smell mince pies)
 
 #####Week 4 (aprox 7th of Jan)
 
