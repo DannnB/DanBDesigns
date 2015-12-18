@@ -6,8 +6,6 @@ summary:    A one month challenge using Codecademy Pro. Follow me on twitter for
 categories: code month web development codecademy javascript jquery
 ---
 
-#Codecademy Pro Full Stack Challenge 
-
 ### One month challenge to see how far I can get
 I have decided to create this challenge for myself so I can improve my skills in Web Development. Using [Codecademy's Pro](https://www.codecademy.com){:target="_blank"} content and Full Stack path. By the hours stated this will be 41 hours of content, for each project ill give myself a couple of nights for each one. Adding time for getting things wrong, learning, searching things up and frustration will be ... half of the total time (20hours). The Full Stack path includes in order:
 
