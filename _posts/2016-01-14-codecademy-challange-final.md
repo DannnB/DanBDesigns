@@ -8,23 +8,24 @@ categories: code month web development codecademy javascript jquery ruby
 
 ##Week 2 & 3 Update
 
-###### Time-frame
+### Time-frame
 I'd like to say that you can get the Full Stack course + projects done in a month. However, if you want it to stick then it might not be the best way to go about learning it all. 
 
 Personally I like to make sure I remember most of it and if not all just enough so I can debug my syntax/lookup.
 
-I bet someone would be able to complete everything in the Pro Full Stack Path. Including the final projects. **Could you do it?**
+I bet someone would be able to complete everything in the Pro Full Stack Path. Including the final projects. *Could you do it?*
 
-#####After #CodeMonth
+###After #CodeMonth
 Once I have completed the main lessons I plan to pay for another month to complete the projects. 
 
 It's worth the money for me at $20(£13) 
-**Let us use paypal though! Silly £1.25 card charge!**
+*Let us use paypal though! Silly £1.25 card charge!*
 
 I will most likely keep paying if Codecademy adds more courses an quizzes/projects.
+
 ## Learning New Stuff!
 
-######JavaScript
+###JavaScript
 Finally I am beginning to understand the concepts I struggled with. I'm now starting to be confident in understanding what a script is doing. 
 
 The "Introduction to Objects 1 & 2" explains OPP (Object Oriented Programming) really well. 
@@ -40,19 +41,25 @@ Example of getting password from user input rather than doing as the lessons say
 	var woo = prompt("Your password please:");
 	var myBalance = john.askTeller(woo);
 	console.log(myBalance);
+
 **Further Reading:**
 A book (Online & Print) that I have been reading is [Eloquent Javascript](http://eloquentjavascript.net/ "Eloquent Javascript"). It aims to explain  programming concepts over teaching you the syntax. 
 
-######AngularJS
+###AngularJS
 Couple of nights I had and error while it sets up the workspace `Opps! Please try again later.` after a Goggle search I found out its to do with Codecademy's servers. Left it for couple of hours and it was fine.
 
-The AngularJS Course is a bit brief but its quite a lot to get your head around. The projects look very interesting to do and again some build up on previous projects in the course.
+The AngularJS Course is a bit brief but its quite a lot to get your head around. The projects look very interesting to do and they build up on previous projects in the course.
+
+AngularJS 2 is soon to be released but I am looking into using React by Facebook as my preferred framework. Depends on how well AJS2 turns out though!
 
 
-##Some Cons
+##Pros and Cons 
 
-Will have a full list of Pros and Cons in my final #CodeMonth update.
-#####The Little Things:
+####The Pros
+
+This is my full list of Pros and Cons in my final #CodeMonth update.
+
+####The Little Things:
 An example of what is annoying with some lessons is how strict some strings are. For example, JavaScript - Intro to Objects 2:
 
 This is what it wants:
