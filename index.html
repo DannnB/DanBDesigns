@@ -3,8 +3,6 @@ layout: default
 ---
 
 <div class="home">
-    <div style="width:100%; float: none; clear: both;">
-    <div style="width:75%; float:left;">
 <h1>Graphic &amp; Web Designer</h1>
     <h2>A little bit about me</h2>
         <p>I am a Web Developer and Designer from Worcester, UK. I enjoy CSS styling and using frontend development tools (Headaches at times don’t you think?). Working part-time, I develop and learn away from work as much as I can. If you like collections of inspirational materiel have a <a href="https://www.pinterest.com/DanBDesigns/" target="_blank">look at my Pintrest</a> where I collect my favourite designs and subjects. <a href="http://danbdesigns.co.uk/about/">Read More</a>
@@ -21,7 +19,8 @@ layout: default
     <hr>
         
         
-        
+<div class="clearfix">
+    <div class="col col-12">
         <div class="app-block center">
         <i class="devicons devicons-html5" title="HTML5">
       </i>
@@ -32,46 +31,39 @@ layout: default
         <i class="devicons devicons-bootstrap" title="Bootstrap">
         </i>
         <i class="devicons devicons-wordpress" title="Wordpress">
-        </i>
+        </i> 
+            
         <i class="devicons devicons-javascript" title="JavaScript">
         </i>
         <i class="devicons devicons-jquery" title="jQuery">
         </i>
         <i class="devicons devicons-angular" title="AngularJS">
         </i>
-        <i class="devicons devicons-sublime" title="Sublime Text 3">
-        </i>
-        <i class="devicons devicons-cloud9" title="Cloud9">
+            <i class="devicons devicons-cloud9" title="Cloud9">
         </i>
         <i class="devicons devicons-terminal" title="command line">
         </i>
+            
         <i class="devicons devicons-git" title="GIT">
         </i>
         <i class="devicons devicons-sass" title="Sass">
             </i>
         <i class="devicons devicons-ruby" title="Ruby">
             </i>
-        <i class="devicons devicons-php" title="PHP">
+                <i class="devicons devicons-php" title="PHP"></i>
+        <i class="devicons devicons-python" title="Python">
             </i>
-        <i class="devicons devicons-react" title="React">
-        </i>
+        
       </div>
-        
-        
-        
-        
     </div>
-    <div style="width:25%; float:left;">
-        <img src="{{ site.baseurl }}/images/me.png" style="padding-top: 59px;     border-radius: 150px;
-    -webkit-border-radius: 150px;
-    -moz-border-radius: 150px;">
-    </div>
-        </div>
-    
+</div>
         
-        <div style="clear:both;">
+    <!--<div class="clearfix">
+  <div class="col col-6">.col.col-6</div>
+  <div class="col col-6">.col.col-6</div>
+</div>-->
+        
     <h3>Latest Posts:</h3>
-    <hr>
   <div class="posts" id="blog-posts">
     {% for post in paginator.posts %}
       <div class="post py3">
@@ -142,5 +134,8 @@ layout: default
                 </ul>
             </div>
         </div>
-</div>
+
+
+
+
 </div>

@@ -8,7 +8,7 @@ I am a Web Developer and Designer from Worcester, UK. I enjoy CSS styling and us
 
 I have studied and experienced a range of stuff from print to screen. Collage and University. 
 
-Also having a large curated collection of books I enjoy. Science/Physics, Design, Web, Fine Art, Encyclopaedias (*Sometimes better than Google for ideas*), Graphic Novels/Comics.  [Pintrest](https://www.pinterest.com/DanBDesigns/){:target="_blank"} again is my main online source for these topics.
+Also having a large curated collection of books I enjoy. Science/Physics, Design, Web, Fine Art, Encyclopaedias (*Sometimes better than Google for ideas*), Graphic Novels/Comics.  [Pinterest](https://www.pinterest.com/DanBDesigns/){:target="_blank"} is my main online source for these topics.
 
 [Michio Kaku](http://mkaku.org/){:target="_blank"} is one of my favourite physicists.
 
