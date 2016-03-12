@@ -3,6 +3,7 @@ layout: page
 title: About DanB
 permalink: /about/
 ---
+<img src="/images/danb.jpg" title="DanB Designs" width="100px">
 
 I am a Web Developer and Designer from Worcester, UK. I enjoy CSS styling and using frontend development tools (Headaches at times don’t you think?). Working part-time, I develop and learn away from work as much as I can. If you like collections of inspirational materiel have a look at my [Pintrest](https://www.pinterest.com/DanBDesigns/) where I collect my favourite designs and subjects.
 

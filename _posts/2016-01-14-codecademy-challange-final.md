@@ -2,7 +2,7 @@
 layout:     post
 title:      Codecademy Pro Challenge Final
 date:       2016-01-14 10:14:08
-summary:    A one month challenge using Codecademy Pro has ended. Come read my final thoughts and what I think about Pro features. 
+summary:    My one month challenge using Codecademy Pro has ended. Come read my final thoughts and what I think about Pro features. 
 categories: code month web development codecademy javascript jquery ruby
 ---
 
@@ -51,25 +51,4 @@ Couple of nights I had and error while it sets up the workspace `Opps! Please tr
 The AngularJS Course is a bit brief but its quite a lot to get your head around. The projects look very interesting to do and they build up on previous projects in the course.
 
 AngularJS 2 is soon to be released but I am looking into using React by Facebook as my preferred framework. Depends on how well AJS2 turns out though!
-
-
-##Pros and Cons 
-
-####The Pros
-
-This is my full list of Pros and Cons in my final #CodeMonth update.
-
-####The Little Things:
-An example of what is annoying with some lessons is how strict some strings are. For example, JavaScript - Intro to Objects 2:
-
-This is what it wants:
-
-	Animal.prototype.sayName = function() {
-    console.log("Hi my name is " + this.name);
-	};
-Where as I put `"Hi, my`
-
-    console.log("Hi, my name is "
-This gives and error and that I then look thinking I messed up the syntax. It did say add the string `Hi my name is` but should this really matter how I go about wording it? Its a small nitpick I know.
-
 

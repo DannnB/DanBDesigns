@@ -2,7 +2,7 @@
 title:        Graphic & Web Designer
 email:       info@danbdesigns.co.uk
 author:      Daniel Broughton
-description: "Dan B is a creative web and graphic designer/developer from the midlands. Come check out his work."
+description: "Dan B is a creative web developer and graphic designer from the midlands."
 baseurl:     ""
 url:         "http://danbdesigns.co.uk"
 date_format: "%b %-d, %Y"
@@ -15,7 +15,7 @@ google_verification: google48201b4269d01271
 animated:             false
 show_related_posts:   true
 show_post_footers:    false
-show_social_icons:    true
+show_social_icons:    false
 ajaxify_contact_form: false
 
 # Disqus post comments
@@ -49,10 +49,10 @@ share_facebook: true
 share_twitter: true
 share_googleplus: true
 share_linkedin: true
-share_digg: true
+share_digg: false
 share_tumblr: true
 share_reddit: true
-share_stumbleupon: true
+share_stumbleupon: false
 share_hackernews: false
 
 # Build settings
@@ -60,9 +60,8 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    /blog/:year/:month/:day/:title.html # default: pretty
-gems: ["jekyll-paginate","jekyll-sitemap"]
+gems: ["jekyll-paginate","jekyll-sitemap","octopress-minify-html"]
 paginate: 4
 paginate_path: "page:num"
 sass:
   compressed: true
-  
