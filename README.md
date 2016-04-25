@@ -15,3 +15,10 @@ Made with Jekyll!
 11. [DanB Facebook](https://www.facebook.com/dbroughton123)
 12. [Steam: Oddball](http://steamcommunity.com/profiles/76561198001818547/)
 13. [Dribbble](https://dribbble.com/danbdesigns)
+
+
+Addd this line to gems for site builds only
+
+"octopress-minify-html"
+
+It will slow down build times so much!

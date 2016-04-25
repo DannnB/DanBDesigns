@@ -76,42 +76,20 @@ body {
     padding-top: 0.5rem!important;
     padding-bottom: 0.5rem!important;
 }
-/* PINTEREST */
-#pinterest-gallery {
-  overflow: auto;
-  width: 100%;
-  list-style: none;
-  margin: 0 auto;
+/* HOMPAGE/BLOG SKILLS LIST */
+.skills-row {
+    width:100%; 
+    color:#ffffff;
 }
-
-
-#pinterest-gallery li {
-  float: left;
-  width: 200px;
-  height: 200px;
-  background-size: cover;
-  margin: .1em;
-  padding: 0;
-  border: none;
+.skills-col {
+    width:33.33333333%; 
+    float:left; 
+    margin-top: 28px;
+    ul {
+            list-style: none;
+        margin-left: 0px;
+    }
 }
-
-#pinterest-gallery img { border: none; }
-
-.pinterest-link {
-  display: block;
-  overflow: hidden;
-  text-indent: 100%;
-  height: 100%;
-  white-space: nowrap;
-}
-
-/* Internet Explorer correction */
-#pinterest-gallery li a { 
-    color: transparent; 
-    line-height: 1px;
-    font-size: 0px;
-}
-
 /* ICONS STYLES */
 /* Obnoxious styling for icon fonts */
 i {
