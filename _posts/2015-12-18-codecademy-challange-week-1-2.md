@@ -6,7 +6,7 @@ summary:    A one month challenge using Codecademy Pro. Follow me on twitter for
 categories: code month web development codecademy javascript jquery
 ---
 
-##Week 1 Updates!
+## Week 1 Updates!
 
 After setting myself this challenge I had a look through all the content, quizzes and projects. Then I realised that Pro holds a lot more than I thought.
 

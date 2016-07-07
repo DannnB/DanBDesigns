@@ -17,8 +17,24 @@ Made with Jekyll!
 13. [Dribbble](https://dribbble.com/danbdesigns)
 
 
-Addd this line to gems for site builds only
+Add this line to gems for site builds only
 
 "octopress-minify-html"
 
-It will slow down build times so much!
+It will slow down build times when testing if not!
+
+gem install jekyll jekyll-paginate jekyll-sitemap octopress-minify-html
+
+#### PUBLIC TO DO
+
+Set up bundler
+
+http://bundler.io/
+
+Change maintenance page title to new index.html one (use include/template)
+
+Limit related posts to 3 max
+
+Add project/portfolio page
+
+Add experiments page
