@@ -8,7 +8,6 @@
   MIT License http://opensource.org/licenses/MIT
 
 */
-
 @import 'basscss/base-buttons';
 @import 'basscss/base-forms';
 @import 'basscss/base-reset';
@@ -23,3 +22,8 @@
 @import 'basscss/utility-headings';
 @import 'basscss/utility-typography';
 @import 'basscss/utility-white-space';
+
+@media screen and (min-width: 32em){}
+h1, .h1 {
+    font-size: 2rem!important;
+}

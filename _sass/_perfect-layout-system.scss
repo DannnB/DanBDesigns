@@ -1,0 +1,44 @@
+/* 
+Create the perfect website layout system 
+http://www.creativebloq.com/web-design/create-perfect-website-layout-system-121518553
+
+Discover a number of ways to create responsive layouts without media queries.
+
+Combined by github.com/DannnB
+*/
+
+
+@mixin float ($float-dir){
+    float: $float-dir;
+    display: inline-block;
+}
+
+/* 
+You can create a simple horizontally scrolling multi-column layout by setting the height of the article to a maximum of 100 per cent of the viewport, and by telling it to use columns of no less than 20em.
+*/
+
+article {
+columns: 20em; /* never be smaller than 20em */
+height: 100vh; /* be as high as the viewport */
+width: 75vw; /* be 75% of the width of the viewport */
+}
+
+/*
+Instead of using em and media queries to make sure our layout works in different viewports, you can use the vw unit, which is a percentage of the width of the viewport. If you set the font size to 2.9vw (for example) the layout will always fit in the viewport, as you can see in the example pictured below.
+*/
+
+ul {
+display: flex;
+flex-wrap: wrap;
+font-size: 2.5em;
+/*
+ You can make sure that the font size never becomes too small by using a calc function: font-size: calc(1em + 1vw). This works like a minimum font size.
+*/   
+    font-size: calc(1em + 1vw);
+}
+
+/*
+With this specific calculation, this one sentence, set in a certain font, will always fit in any viewport.
+*/
+font-size: calc(4vw + 4vh + 2vmin);
+

@@ -1,5 +1,5 @@
 # Site settings
-title:        Graphic & Web Designer
+title:       Web Developer & Designer
 email:       info@danbdesigns.co.uk
 author:      Daniel Broughton
 description: "Dan B is a creative Web Developer & Designer from the midlands."
@@ -34,7 +34,7 @@ bitbucket_username:
 stackoverflow_id:
 twitter_username: DanBDesigns
 google_plus_id:
-linkedin_username:
+linkedin_username: daniel-broughton-5797716a
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -60,7 +60,7 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    /blog/:year/:month/:day/:title.html # default: pretty
-gems: ["jekyll-paginate","jekyll-sitemap"]
+gems: ["jekyll-paginate","jekyll-sitemap","octopress-minify-html"] # ,"octopress-minify-html"
 paginate: 4
 paginate_path: "page:num"
 sass:

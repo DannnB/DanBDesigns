@@ -1,8 +1,12 @@
 ---
+
+---
+
 layout: page
 title: Services
 permalink: /services/
----
+
+
 ## Web Design
 Personal, band, photography, fine art, Samll/Big Business sites, e-commerce. I'm happy to work along side other designers and developers.
 
