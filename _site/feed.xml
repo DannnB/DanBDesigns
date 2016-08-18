@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer &amp; Designer</title>
+    <description>Dan B is a creative Web Developer &amp; Designer from the midlands.</description>
+    <link>http://danbdesigns.co.uk/</link>
+    <atom:link href="http://danbdesigns.co.uk/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Codecademy Pro Challenge Final</title>
+        <description>&lt;h2 id=&quot;week-2--3-update-with-final-thoughts&quot;&gt;Week 2 &amp;amp; 3 update with final thoughts&lt;/h2&gt;
+
+&lt;h3 id=&quot;time-frame&quot;&gt;Time-frame&lt;/h3&gt;
+&lt;p&gt;I’d like to say that you can get the Full Stack course + projects done in a month. However, if you want it to stick then it might not be the best way to go about learning it all.&lt;/p&gt;
+
+&lt;p&gt;Personally I like to make sure I remember most of it and if not all just enough so I can debug my syntax/lookup.&lt;/p&gt;
+
+&lt;p&gt;I bet someone would be able to complete everything in the Pro Full Stack Path. Including the final projects. &lt;em&gt;Could you do it?&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;after-codemonth&quot;&gt;After #CodeMonth&lt;/h3&gt;
+&lt;p&gt;Once I have completed the main lessons I plan to pay for another month to complete the projects.&lt;/p&gt;
+
+&lt;p&gt;It’s worth the money for me at $20(£13) 
+&lt;em&gt;Let us use paypal though! Silly £1.25 card charge!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I will most likely keep paying if Codecademy adds more courses an quizzes/projects.&lt;/p&gt;
+
+&lt;h2 id=&quot;learning-new-stuff&quot;&gt;Learning New Stuff!&lt;/h2&gt;
+
+&lt;h3 id=&quot;javascript&quot;&gt;JavaScript&lt;/h3&gt;
+&lt;p&gt;Finally I am beginning to understand the concepts I struggled with. I’m now starting to be confident in understanding what a script is doing.&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;“Introduction to Objects 1 &amp;amp; 2”&lt;/em&gt; explains OPP (Object Oriented Programming) really well.&lt;/p&gt;
+
+&lt;p&gt;I recommend these sections to anyone who is confused about this advance part of JavaScript. It will help with understanding other languages.&lt;/p&gt;
+
+&lt;p&gt;One bit I enjoyed was creating the Animals with ClassNames and adding inheritance such as:
+&lt;code class=&quot;highlighter-rouge&quot;&gt;Penguin.prototype = new Animal();&lt;/code&gt;. Along with learning about the “prototype chain” and how JS looks up inherited classes to find the property it needs.&lt;/p&gt;
+
+&lt;p&gt;Example of getting password from user input rather than doing as the lessons says!&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;// prompting the user for password...
+var woo = prompt(&quot;Your password please:&quot;);
+var myBalance = john.askTeller(woo);
+console.log(myBalance);
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Further Reading:&lt;/strong&gt;
+A book (Online &amp;amp; Print) that I have been reading is &lt;a href=&quot;http://eloquentjavascript.net/&quot; title=&quot;Eloquent Javascript&quot;&gt;Eloquent Javascript&lt;/a&gt;. It aims to explain  programming concepts over teaching you the syntax.&lt;/p&gt;
+
+&lt;h3 id=&quot;angularjs&quot;&gt;AngularJS&lt;/h3&gt;
+&lt;p&gt;Couple of nights I had and error while it sets up the workspace &lt;code class=&quot;highlighter-rouge&quot;&gt;Opps! Please try again later.&lt;/code&gt; after a Goggle search I found out its to do with Codecademy’s servers. Left it for couple of hours and it was fine.&lt;/p&gt;
+
+&lt;p&gt;The AngularJS Course is a bit brief but its quite a lot to get your head around. The projects look very interesting to do and they build up on previous projects in the course.&lt;/p&gt;
+
+&lt;p&gt;AngularJS 2 is soon to be released but I am looking into using React by Facebook as my preferred framework. Depends on how well AJS2 turns out though!&lt;/p&gt;
+
+&lt;p&gt;Now that I am at the end of my challenge I plan to go though it again recapping parts. This will enable me to refresh syntax ready for when I start some little projects to put it all into practice.&lt;/p&gt;
+
+&lt;p&gt;Hope on over to my &lt;a href=&quot;/experiments/&quot; title=&quot;My Web Experiments&quot;&gt;experiments page&lt;/a&gt; and discover what I’ve been messing with.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 14 Jan 2016 10:14:08 +0000</pubDate>
+        <link>http://danbdesigns.co.uk/blog/2016/01/14/codecademy-challange-final.html</link>
+        <guid isPermaLink="true">http://danbdesigns.co.uk/blog/2016/01/14/codecademy-challange-final.html</guid>
+      </item>
+    
+      <item>
+        <title>Codecademy Pro Challenge Week 1/2 Update</title>
+        <description>&lt;h2 id=&quot;week-1-updates&quot;&gt;Week 1 Updates!&lt;/h2&gt;
+
+&lt;p&gt;After setting myself this challenge I had a look through all the content, quizzes and projects. Then I realised that Pro holds a lot more than I thought.&lt;/p&gt;
+
+&lt;p&gt;The JavaScript Final Project takes around 10 hours to complete.&lt;/p&gt;
+
+&lt;p&gt;What I have forgotten to mention before was that anyone can rush though these courses copy &amp;amp; pasting. I plan to really drill it in my head and make sure I understand as much as I humanly can by the end of it.&lt;/p&gt;
+
+&lt;p&gt;Even if it’s asking me to output &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;Hello, my name is Dan&quot;&lt;/code&gt; with &lt;code class=&quot;highlighter-rouge&quot;&gt;console.log&lt;/code&gt; I try to add the stuff I learned before. Such as, adding something as simple as a  &lt;code class=&quot;highlighter-rouge&quot;&gt;prompt&lt;/code&gt; so any name can be outputted (Simplified Example).&lt;/p&gt;
+
+&lt;p&gt;##So JavaScript!&lt;/p&gt;
+
+&lt;p&gt;I was looking forward to getting a go at this course. I have messed around with jQuery a lot before and taught myself a lot of concepts. Which would help me with the understanding behind pure JavaScript.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Justin Bieber! I had some fun with the user responses on that section.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;####Unit Overview&lt;/p&gt;
+
+&lt;p&gt;My personal bottle neck was when I got to objects . Previously I knew the concepts/uses behind loops but objects was mostly new to me. That section I will have to revise a couple more times after this challenge.&lt;/p&gt;
+
+&lt;p&gt;The progression from each unit is very well thought out. You get a review of the section at the end In the next unit you sometimes get to use the previous code you’ve learned with the new code you’re learning.&lt;/p&gt;
+
+&lt;p&gt;#####Quizzes 
+I plan to go back to them every so often to keep it in my mind what I learn.&lt;/p&gt;
+
+&lt;p&gt;One thing that bothers me is they have 1 set of questions that rearrange each time you use it. What might be nice to do is have a couple of different sets for people who like the challenge of a quiz.&lt;/p&gt;
+
+&lt;p&gt;Having 3 different levels for each quiz on every unit would be awesome!&lt;/p&gt;
+
+&lt;p&gt;I appreciate that code Pro is pretty new but it would be a nice feature to make an even better investment for Pro.&lt;/p&gt;
+
+&lt;p&gt;##Week 2&lt;/p&gt;
+
+&lt;p&gt;#####Woops, I have completed jQuery a week ahead of schedule. (3 hours Non-Pro)&lt;/p&gt;
+
+&lt;p&gt;I plan to finish off the JavaScript final project and some jQuery projects in this week.&lt;/p&gt;
+
+&lt;p&gt;But first I will get the HTML/CSS unit done. Plus the final project for HTML. This is because the jQuery final builds off the HTML project.&lt;/p&gt;
+
+&lt;p&gt;Then onto AngularJS and Ruby…my head hurts already!&lt;/p&gt;
+
+&lt;p&gt;##Codecademy Pro | Free
+With a Pro account you get a chose to pick a path. This will create a new tab next to All Courses called “My Path” as shown in the image below. Then you can get a visual representation of how you’re doing and what is coming up next. You can argue that you could do that as a paper plan but its the convenience of having it.&lt;/p&gt;
+
+&lt;p&gt;Personally it keeps me on track, where as usually I go from one course to another completing odd bits (Yes I completed jQuery while doing JS but I got engrossed…).&lt;/p&gt;
+
+&lt;p&gt;As said about in the Quizzes section I think we need to see more of them and some other techniques/learning games. This will help people with different mindsets on learning and also some disabilities.&lt;/p&gt;
+
+&lt;p&gt;####Challenge Idea
+Have a timer where you have to see how many questions/puzzles at random you can answer within the time frame. This could be updated on a “High Score” board with sections for different countries and programming languages. Plus having it so you can mix and match the content and difficulties settings that will be in the challenge. If this path goes well I might even have a go doing it myself!&lt;/p&gt;
+
+&lt;p&gt;So, at this stage I recommend Codecedemy Pro so far with what I have witnessed. I will keep reviewing it for my Week 2 update.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;If you have read though this id like to say thank you for taking the time to do so!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have any questions, suggestions or just want to chat please DM or tweet to me on &lt;a href=&quot;https://twitter.com/DanBDesigns&quot; target=&quot;_blank&quot;&gt;my Twitter here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;#Onto week 2!&lt;/p&gt;
+
+&lt;p&gt;#####Week 1 Progress…
+&lt;img src=&quot;/images/code-month/progress-02.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 Dec 2015 13:36:48 +0000</pubDate>
+        <link>http://danbdesigns.co.uk/blog/2015/12/18/codecademy-challange-week-1-2.html</link>
+        <guid isPermaLink="true">http://danbdesigns.co.uk/blog/2015/12/18/codecademy-challange-week-1-2.html</guid>
+      </item>
+    
+      <item>
+        <title>Codecademy Pro Full Stack Challenge</title>
+        <description>&lt;h3 id=&quot;one-month-challenge-to-see-how-far-i-can-get&quot;&gt;One month challenge to see how far I can get&lt;/h3&gt;
+&lt;p&gt;I have decided to create this challenge for myself so I can improve my skills in Web Development. Using &lt;a href=&quot;https://www.codecademy.com&quot; target=&quot;_blank&quot;&gt;Codecademy’s Pro&lt;/a&gt; content and Full Stack path. By the hours stated this will be 41 hours of content, for each project ill give myself a couple of nights for each one. Adding time for getting things wrong, learning, searching things up and frustration will be … half of the total time (20hours). The Full Stack path includes in order:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;HTML/CSS&lt;/li&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;jQuery&lt;/li&gt;
+  &lt;li&gt;AngularJS&lt;/li&gt;
+  &lt;li&gt;Ruby&lt;/li&gt;
+  &lt;li&gt;Ruby on Rails&lt;/li&gt;
+  &lt;li&gt;Rails Authentication&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;To note: I will be skipping HTML/CSS for now because I know a lot already.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;###Challenge Outcome &amp;amp; New Years Resolution
+Be confident in Frontend development and be able to use Backend technologies to a decent standard. Create what I like and know the possibilities of each technology. As well as lend a hand to others who want to get into code.&lt;/p&gt;
+
+&lt;p&gt;#####Week 1 Start 10th&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Javascript + Final Project&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;#####Week 2&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;jQuery + Final Project&lt;/li&gt;
+  &lt;li&gt;Start AngularJS&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;#####Week 3&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Finish AngularJS + Final Project&lt;/li&gt;
+  &lt;li&gt;Start Ruby + Final Project&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I have a 10 days off for Christmas, so as well as being merry I plan this to be my main week where I get a lot done. (That’s the plan at least…I smell mince pies)&lt;/p&gt;
+
+&lt;p&gt;#####Week 4 (aprox 7th of Jan)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Finish off Ruby sections or at least the first Ruby part.&lt;/li&gt;
+  &lt;li&gt;Recap on what I learned, share my tests/site builds that I have done.&lt;/li&gt;
+  &lt;li&gt;This is where I will do the HTML/CSS section so I can have 100% completion.&lt;/li&gt;
+  &lt;li&gt;Write about my experience and if I would recommend Codecademy Pro/Free and hopefully be a lot more confident in development!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;That’s my rough plan, things can pop up but it should work.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions, suggestions or just want to chat please DM or tweet to me on &lt;a href=&quot;https://twitter.com/DanBDesigns&quot; target=&quot;_blank&quot;&gt;my Twitter here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;#####First Nights Progress…
+&lt;img src=&quot;/images/code-month/progress-01.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 10 Dec 2015 00:01:00 +0000</pubDate>
+        <link>http://danbdesigns.co.uk/blog/2015/12/10/codecademy-challange.html</link>
+        <guid isPermaLink="true">http://danbdesigns.co.uk/blog/2015/12/10/codecademy-challange.html</guid>
+      </item>
+    
+      <item>
+        <title>Choosing Jekyll over WordPress</title>
+        <description>&lt;p&gt;###Choosing Jekyll Over WordPress&lt;/p&gt;
+
+&lt;p&gt;I use Wordpress all the time and its brilliant for what it offers and what its capable of. Over the last couple of years with my personal site I have gone though at least 5+ re-installations and many more redesigns. Must of these were unnecessary but the designer in me wanted to keep changing stuff over and over again.&lt;/p&gt;
+
+&lt;p&gt;This is why I chose &lt;a href=&quot;https://jekyllrb.com/&quot; title=&quot;Jekyll&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Before, I could not do anything with Front End tools but now I have got much further where I can move on to the next level. Plus &lt;a href=&quot;http://www.pixyll.com&quot; title=&quot;Pixyll&#39;s Website&quot; target=&quot;_blank&quot;&gt;Pixyll&lt;/a&gt; theme is beautiful.&lt;/p&gt;
+
+&lt;p&gt;Over 8 hours, I have this site with content up and running. It took a while for me to get to grips with different things like getting it to build without errors! I do find that a lot of these frameworks don’t help the newbies. &lt;em&gt;I still have yet to get the new &lt;a href=&quot;http://foundation.zurb.com/sites.html&quot; title=&quot;Foudnation 6 Website&quot; target=&quot;_blank&quot;&gt;Foundation 6&lt;/a&gt; to build.&lt;/em&gt; Will assign a free day to get that working!&lt;/p&gt;
+
+&lt;p&gt;I’m enjoying using Jekyll so far and using Markdown makes a huge change from HTML and the WordPress visual editor. &lt;a href=&quot;http://markdownpad.com/&quot; title=&quot;Markdown Pad 2 Website&quot; target=&quot;_blank&quot;&gt;Markdown Pad 2&lt;/a&gt; is worth the money for Pro.&lt;/p&gt;
+
+&lt;p&gt;Using frontend build tools is useful and i’m looking forward to looking into more of it. Gulp, Bower and others.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading this far,&lt;/p&gt;
+
+&lt;p&gt;DanB&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Nov 2015 01:15:25 +0000</pubDate>
+        <link>http://danbdesigns.co.uk/blog/2015/11/24/wordpress-to-jekyll.html</link>
+        <guid isPermaLink="true">http://danbdesigns.co.uk/blog/2015/11/24/wordpress-to-jekyll.html</guid>
+      </item>
+    
+      <item>
+        <title>A Simple Git Guide for Windows Users</title>
+        <description>&lt;p&gt;Hopefully this will fix some headaches! It took me ages to figure out how to fix things and get it all running by using many, many forums. Mainly for my own reference but might help others.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Written by &lt;a href=&quot;https://github.com/DannnB&quot; target=&quot;_blank&quot;&gt;DannnnB&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;basic-cmd&quot;&gt;Basic CMD&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cd ..&lt;/code&gt; (Up dir)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;ls&lt;/code&gt; (From git bash) or &lt;code class=&quot;highlighter-rouge&quot;&gt;dir&lt;/code&gt; (From CMD/Windows) (List files in dir)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cd Users&lt;/code&gt; (Change to dir)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;git-shell--cmd&quot;&gt;Git Shell &amp;amp; CMD&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git clone&lt;/code&gt; (Copies a git from a link eg. http://github.com/username/project)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git status&lt;/code&gt; (Difference between GitHub and you)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git add&lt;/code&gt; (Adds new files/changes by file name into repo commit. &lt;code class=&quot;highlighter-rouge&quot;&gt;git add index.html&lt;/code&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git add .&lt;/code&gt; (Adds all files)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git add -A&lt;/code&gt; (Adds all files)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git commit&lt;/code&gt; (Locked in. Ready to be uploaded. Use: &lt;code class=&quot;highlighter-rouge&quot;&gt;git commit -m &quot;a message of changes&lt;/code&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git push&lt;/code&gt; (Take all committed files and uploads/pushes to github.com)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git pull&lt;/code&gt; (Pulls latest git commit)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git&lt;/code&gt; (List all commands)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;simple-workflow&quot;&gt;Simple Workflow&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;“start”&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git pull&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;“make changes”&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git add index.html&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;git add -A&lt;/code&gt; (adds all)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git commit -m &quot;message for commit&quot;&lt;/code&gt; (a file or all files)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git push&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;merge-conflict&quot;&gt;Merge Conflict&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Manually merge conflict lines at helper lines&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git add -A&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git commit&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h6 id=&quot;stuck-in-cmd-after-commit-or-during-one&quot;&gt;Stuck in cmd after commit or during one&lt;/h6&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ESC (then) &lt;code class=&quot;highlighter-rouge&quot;&gt;:wq&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;branching&quot;&gt;Branching&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“All in your working DIR”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git pull&lt;/code&gt; (latest files)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git branch&lt;/code&gt; (shows master + other branches)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git branch name-of-branch&lt;/code&gt; (copies MASTER)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git checkout name-of-branch&lt;/code&gt; (changes to branch. Not going to mess with Master.)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git add -A&lt;/code&gt; (or) git add filename.html (add edited files)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git branch&lt;/code&gt; (branch selection)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git checkout&lt;/code&gt; master (back to master)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git pull&lt;/code&gt; (check to see if anyone else has updated master)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git checkout name-of-branch&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git merge master&lt;/code&gt; (merges to master branch)
+    &lt;ul&gt;
+      &lt;li&gt;On GitHub submit it as pull request&lt;/li&gt;
+      &lt;li&gt;Enables comments, can add commits if needed before merged code changes.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;cmder&quot;&gt;CMDER&lt;/h2&gt;
+
+&lt;p&gt;####Tab manipulation&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Ctrl + `&lt;/strong&gt; : Global Summon from taskbar&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Win + Alt + p&lt;/strong&gt; : Preferences&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ctrl + t&lt;/strong&gt; : New tab dialog&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ctrl + w&lt;/strong&gt; : Close tab&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Shift + Alt + number&lt;/strong&gt; : Fast new tab&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Alt + Enter : Fullscreen&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Shift + Up&lt;/strong&gt; : Traverse up in directory structure&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;End, Home, Ctrl&lt;/strong&gt; : Traverse text as usual on Windows&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ctrl + r&lt;/strong&gt; : History search&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Shift + mouse&lt;/strong&gt; : Select and copy text from buffer&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Right click / Ctrl + Shift + v&lt;/strong&gt; : Paste text&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&quot;learncodeacademy&quot;&gt;LearnCode.academy&lt;/h6&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw&quot; target=&quot;_blank&quot;&gt;YouTube Coding&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Nov 2015 12:30:00 +0000</pubDate>
+        <link>http://danbdesigns.co.uk/blog/2015/11/23/a-simple-git-gude-for-windows-users.html</link>
+        <guid isPermaLink="true">http://danbdesigns.co.uk/blog/2015/11/23/a-simple-git-gude-for-windows-users.html</guid>
+      </item>
+    
+      <item>
+        <title>Career Skills - Learning Your Path Into Development</title>
+        <description>&lt;h2 id=&quot;a-video-that-has-helped-me-a-lot&quot;&gt;A Video that has helped me a lot!&lt;/h2&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pB0WvcxTbCA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;###&lt;a href=&quot;https://youtu.be/pB0WvcxTbCA&quot; target=&quot;_blank&quot;&gt;Watch It Here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;####Thank you to &lt;a href=&quot;https://www.youtube.com/user/learncodeacademy&quot; title=&quot;LearnCode.academy on YouTube&quot; target=&quot;_blank&quot;&gt;LearnCode.academy on YouTube&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 Nov 2015 18:26:32 +0000</pubDate>
+        <link>http://danbdesigns.co.uk/blog/2015/11/22/best-video-for-your-career.html</link>
+        <guid isPermaLink="true">http://danbdesigns.co.uk/blog/2015/11/22/best-video-for-your-career.html</guid>
+      </item>
+    
+      <item>
+        <title>Foundation App Guide for Windows Users</title>
+        <description>&lt;p&gt;###&lt;code class=&quot;highlighter-rouge&quot;&gt;Git/NPM/Ruby/Foundation-App Guide &lt;/code&gt; - For Windows Users&lt;/p&gt;
+
+&lt;p&gt;Hopefully this will fix some headaches! It took me ages to figure out how to fix things and get it all running by using many, many forums. Mainly for my own reference but might help others.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Written by &lt;a href=&quot;https://github.com/DannnB&quot; target=&quot;_blank&quot;&gt;DannnnB&lt;/a&gt;&lt;/em&gt;
+##Ruby&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;C:\Ruby22&lt;/code&gt; (Better to install at C)&lt;/li&gt;
+  &lt;li&gt;Add ruby executables&lt;/li&gt;
+  &lt;li&gt;Associate files&lt;/li&gt;
+  &lt;li&gt;
+    &lt;h5 id=&quot;install-devkit&quot;&gt;INSTALL DEVKIT&lt;/h5&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Extract to &lt;code class=&quot;highlighter-rouge&quot;&gt;C:\devkit&lt;/code&gt; (Better to install at C, can be anywhere though)&lt;/li&gt;
+  &lt;li&gt;Open “Start Command Prompt with Ruby”&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cd C:\devkit&lt;/code&gt; (Change to the location where you extracted it)&lt;/li&gt;
+  &lt;li&gt;From &lt;code class=&quot;highlighter-rouge&quot;&gt;C:\devkit&lt;/code&gt; (Location where you extracted it)
+    &lt;ol&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;ruby dk.rb init&lt;/code&gt; (Will create files)&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;ruby dk.rb review&lt;/code&gt; (See if ruby path is in .yml file. Example &lt;code class=&quot;highlighter-rouge&quot;&gt;C:\Ruby22&lt;/code&gt;)&lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;ruby dk.rb&lt;/code&gt; install&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;gem install json&lt;/code&gt; (Test if working and all is set up)
+ ###### EVENTMACHINE PROBLEM FIX
+        &lt;ul&gt;
+          &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;gem install eventmachine -v 1.0.4&lt;/code&gt;&lt;/li&gt;
+          &lt;li&gt;Seemed to fix it. Plenty of help on Google if not. If there is anything else missing just install what is needed.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;##FOUNDATION FOR APPS&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git clone https://github.com/zurb/foundation-apps-template.git appName&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cd appName&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;npm install&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;bower install&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;npm start&lt;/code&gt; (Compile the Sass and assemble your Angular app)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;npm start build&lt;/code&gt; (Builds without starting server)&lt;/li&gt;
+  &lt;li&gt;Should auto open a localhost tab in your default browser.
+    &lt;ul&gt;
+      &lt;li&gt;If not, go to &lt;code class=&quot;highlighter-rouge&quot;&gt;localhost:8080&lt;/code&gt; in the browser&lt;/li&gt;
+      &lt;li&gt;Changes in the &lt;em&gt;Client&lt;/em&gt; folder will start the gulp task and put files in the &lt;em&gt;build&lt;/em&gt; folder&lt;/li&gt;
+      &lt;li&gt;If files are missing change the gulpfile to add them. Many other settings are in here.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 21 Nov 2015 18:26:32 +0000</pubDate>
+        <link>http://danbdesigns.co.uk/blog/2015/11/21/FoundationApp-for-Windows-Users.html</link>
+        <guid isPermaLink="true">http://danbdesigns.co.uk/blog/2015/11/21/FoundationApp-for-Windows-Users.html</guid>
+      </item>
+    
+  </channel>
+</rss>
