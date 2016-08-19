@@ -6,7 +6,7 @@ summary:    Sometimes its better to have less choice. A insight into my struggle
 categories: WordPress Web Jekyll
 ---
 
-###Choosing Jekyll Over WordPress
+### Choosing Jekyll Over WordPress
 
 I use Wordpress all the time and its brilliant for what it offers and what its capable of. Over the last couple of years with my personal site I have gone though at least 5+ re-installations and many more redesigns. Must of these were unnecessary but the designer in me wanted to keep changing stuff over and over again.
 

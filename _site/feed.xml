@@ -78,20 +78,20 @@ A book (Online &amp;amp; Print) that I have been reading is &lt;a href=&quot;htt
 
 &lt;p&gt;Even if it’s asking me to output &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;Hello, my name is Dan&quot;&lt;/code&gt; with &lt;code class=&quot;highlighter-rouge&quot;&gt;console.log&lt;/code&gt; I try to add the stuff I learned before. Such as, adding something as simple as a  &lt;code class=&quot;highlighter-rouge&quot;&gt;prompt&lt;/code&gt; so any name can be outputted (Simplified Example).&lt;/p&gt;
 
-&lt;p&gt;##So JavaScript!&lt;/p&gt;
+&lt;h2 id=&quot;so-javascript&quot;&gt;So JavaScript!&lt;/h2&gt;
 
 &lt;p&gt;I was looking forward to getting a go at this course. I have messed around with jQuery a lot before and taught myself a lot of concepts. Which would help me with the understanding behind pure JavaScript.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Justin Bieber! I had some fun with the user responses on that section.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;####Unit Overview&lt;/p&gt;
+&lt;h4 id=&quot;unit-overview&quot;&gt;Unit Overview&lt;/h4&gt;
 
 &lt;p&gt;My personal bottle neck was when I got to objects . Previously I knew the concepts/uses behind loops but objects was mostly new to me. That section I will have to revise a couple more times after this challenge.&lt;/p&gt;
 
 &lt;p&gt;The progression from each unit is very well thought out. You get a review of the section at the end In the next unit you sometimes get to use the previous code you’ve learned with the new code you’re learning.&lt;/p&gt;
 
-&lt;p&gt;#####Quizzes 
-I plan to go back to them every so often to keep it in my mind what I learn.&lt;/p&gt;
+&lt;h5 id=&quot;quizzes&quot;&gt;Quizzes&lt;/h5&gt;
+&lt;p&gt;I plan to go back to them every so often to keep it in my mind what I learn.&lt;/p&gt;
 
 &lt;p&gt;One thing that bothers me is they have 1 set of questions that rearrange each time you use it. What might be nice to do is have a couple of different sets for people who like the challenge of a quiz.&lt;/p&gt;
 
@@ -99,9 +99,9 @@ I plan to go back to them every so often to keep it in my mind what I learn.&lt;
 
 &lt;p&gt;I appreciate that code Pro is pretty new but it would be a nice feature to make an even better investment for Pro.&lt;/p&gt;
 
-&lt;p&gt;##Week 2&lt;/p&gt;
+&lt;h2 id=&quot;week-2&quot;&gt;Week 2&lt;/h2&gt;
 
-&lt;p&gt;#####Woops, I have completed jQuery a week ahead of schedule. (3 hours Non-Pro)&lt;/p&gt;
+&lt;h5 id=&quot;woops-i-have-completed-jquery-a-week-ahead-of-schedule-3-hours-non-pro&quot;&gt;Woops, I have completed jQuery a week ahead of schedule. (3 hours Non-Pro)&lt;/h5&gt;
 
 &lt;p&gt;I plan to finish off the JavaScript final project and some jQuery projects in this week.&lt;/p&gt;
 
@@ -109,15 +109,15 @@ I plan to go back to them every so often to keep it in my mind what I learn.&lt;
 
 &lt;p&gt;Then onto AngularJS and Ruby…my head hurts already!&lt;/p&gt;
 
-&lt;p&gt;##Codecademy Pro | Free
-With a Pro account you get a chose to pick a path. This will create a new tab next to All Courses called “My Path” as shown in the image below. Then you can get a visual representation of how you’re doing and what is coming up next. You can argue that you could do that as a paper plan but its the convenience of having it.&lt;/p&gt;
+&lt;h2 id=&quot;codecademy-pro--free&quot;&gt;Codecademy Pro | Free&lt;/h2&gt;
+&lt;p&gt;With a Pro account you get a chose to pick a path. This will create a new tab next to All Courses called “My Path” as shown in the image below. Then you can get a visual representation of how you’re doing and what is coming up next. You can argue that you could do that as a paper plan but its the convenience of having it.&lt;/p&gt;
 
 &lt;p&gt;Personally it keeps me on track, where as usually I go from one course to another completing odd bits (Yes I completed jQuery while doing JS but I got engrossed…).&lt;/p&gt;
 
 &lt;p&gt;As said about in the Quizzes section I think we need to see more of them and some other techniques/learning games. This will help people with different mindsets on learning and also some disabilities.&lt;/p&gt;
 
-&lt;p&gt;####Challenge Idea
-Have a timer where you have to see how many questions/puzzles at random you can answer within the time frame. This could be updated on a “High Score” board with sections for different countries and programming languages. Plus having it so you can mix and match the content and difficulties settings that will be in the challenge. If this path goes well I might even have a go doing it myself!&lt;/p&gt;
+&lt;h4 id=&quot;challenge-idea&quot;&gt;Challenge Idea&lt;/h4&gt;
+&lt;p&gt;Have a timer where you have to see how many questions/puzzles at random you can answer within the time frame. This could be updated on a “High Score” board with sections for different countries and programming languages. Plus having it so you can mix and match the content and difficulties settings that will be in the challenge. If this path goes well I might even have a go doing it myself!&lt;/p&gt;
 
 &lt;p&gt;So, at this stage I recommend Codecedemy Pro so far with what I have witnessed. I will keep reviewing it for my Week 2 update.&lt;/p&gt;
 
@@ -125,10 +125,10 @@ Have a timer where you have to see how many questions/puzzles at random you can 
 
 &lt;p&gt;If you have any questions, suggestions or just want to chat please DM or tweet to me on &lt;a href=&quot;https://twitter.com/DanBDesigns&quot; target=&quot;_blank&quot;&gt;my Twitter here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;#Onto week 2!&lt;/p&gt;
+&lt;h1 id=&quot;onto-week-2&quot;&gt;Onto week 2!&lt;/h1&gt;
 
-&lt;p&gt;#####Week 1 Progress…
-&lt;img src=&quot;/images/code-month/progress-02.jpg&quot; /&gt;&lt;/p&gt;
+&lt;h5 id=&quot;week-1-progress&quot;&gt;Week 1 Progress…&lt;/h5&gt;
+&lt;p&gt;&lt;img src=&quot;/images/code-month/progress-02.jpg&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 18 Dec 2015 13:36:48 +0000</pubDate>
         <link>http://danbdesigns.co.uk/blog/2015/12/18/codecademy-challange-week-1-2.html</link>
@@ -155,20 +155,20 @@ Have a timer where you have to see how many questions/puzzles at random you can 
 &lt;p&gt;###Challenge Outcome &amp;amp; New Years Resolution
 Be confident in Frontend development and be able to use Backend technologies to a decent standard. Create what I like and know the possibilities of each technology. As well as lend a hand to others who want to get into code.&lt;/p&gt;
 
-&lt;p&gt;#####Week 1 Start 10th&lt;/p&gt;
+&lt;h5 id=&quot;week-1-start-10th&quot;&gt;Week 1 Start 10th&lt;/h5&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Javascript + Final Project&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;#####Week 2&lt;/p&gt;
+&lt;h5 id=&quot;week-2&quot;&gt;Week 2&lt;/h5&gt;
 
 &lt;ol&gt;
   &lt;li&gt;jQuery + Final Project&lt;/li&gt;
   &lt;li&gt;Start AngularJS&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;#####Week 3&lt;/p&gt;
+&lt;h5 id=&quot;week-3&quot;&gt;Week 3&lt;/h5&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Finish AngularJS + Final Project&lt;/li&gt;
@@ -177,7 +177,7 @@ Be confident in Frontend development and be able to use Backend technologies to 
 
 &lt;p&gt;I have a 10 days off for Christmas, so as well as being merry I plan this to be my main week where I get a lot done. (That’s the plan at least…I smell mince pies)&lt;/p&gt;
 
-&lt;p&gt;#####Week 4 (aprox 7th of Jan)&lt;/p&gt;
+&lt;h5 id=&quot;week-4-aprox-7th-of-jan&quot;&gt;Week 4 (aprox 7th of Jan)&lt;/h5&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Finish off Ruby sections or at least the first Ruby part.&lt;/li&gt;
@@ -191,8 +191,8 @@ Be confident in Frontend development and be able to use Backend technologies to 
 
 &lt;p&gt;If you have any questions, suggestions or just want to chat please DM or tweet to me on &lt;a href=&quot;https://twitter.com/DanBDesigns&quot; target=&quot;_blank&quot;&gt;my Twitter here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;#####First Nights Progress…
-&lt;img src=&quot;/images/code-month/progress-01.jpg&quot; /&gt;&lt;/p&gt;
+&lt;h5 id=&quot;first-nights-progress&quot;&gt;First Nights Progress…&lt;/h5&gt;
+&lt;p&gt;&lt;img src=&quot;/images/code-month/progress-01.jpg&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Dec 2015 00:01:00 +0000</pubDate>
         <link>http://danbdesigns.co.uk/blog/2015/12/10/codecademy-challange.html</link>
@@ -201,7 +201,7 @@ Be confident in Frontend development and be able to use Backend technologies to 
     
       <item>
         <title>Choosing Jekyll over WordPress</title>
-        <description>&lt;p&gt;###Choosing Jekyll Over WordPress&lt;/p&gt;
+        <description>&lt;h3 id=&quot;choosing-jekyll-over-wordpress&quot;&gt;Choosing Jekyll Over WordPress&lt;/h3&gt;
 
 &lt;p&gt;I use Wordpress all the time and its brilliant for what it offers and what its capable of. Over the last couple of years with my personal site I have gone though at least 5+ re-installations and many more redesigns. Must of these were unnecessary but the designer in me wanted to keep changing stuff over and over again.&lt;/p&gt;
 
