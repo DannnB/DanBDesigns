@@ -4,13 +4,14 @@ title:      A Simple Git Guide for Windows Users
 date:       2015-11-23 12:30:00
 summary:    Should stop some headaches!
 categories: git web
+post-type: blogpost
 ---
 
 Hopefully this will fix some headaches! It took me ages to figure out how to fix things and get it all running by using many, many forums. Mainly for my own reference but might help others.
 
 *Written by [DannnnB](https://github.com/DannnB){:target="_blank"}*
- 
-## Basic CMD 
+
+## Basic CMD
 1. `cd ..` (Up dir)
 2. `ls` (From git bash) or `dir` (From CMD/Windows) (List files in dir)
 3. `cd Users` (Change to dir)

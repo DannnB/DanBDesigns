@@ -4,6 +4,7 @@ title:      Choosing Jekyll over WordPress
 date:       2015-11-24 01:15:25
 summary:    Sometimes its better to have less choice. A insight into my struggle with WordPress and having the opportunity of choice.
 categories: WordPress Web Jekyll
+post-type: blogpost
 ---
 
 ### Choosing Jekyll Over WordPress

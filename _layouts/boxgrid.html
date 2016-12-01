@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="posts" id="blog-posts">
+  
+  {% for project in projects %}
+    <div class="post py3">
+      <p class="post-meta">{{ project.date | date: site.date_format }}</p>
+      <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ project.title }}</h3></a>
+      <p class="post-summary">
+        {% if project.summary %}
+          {{ project.summary }}
+        {% else %}
+          {{ project.excerpt }}
+        {% endif %}
+      </p>
+    </div>
+  {% endfor %}
+</div>

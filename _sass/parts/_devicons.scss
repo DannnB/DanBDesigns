@@ -1,0 +1,61 @@
+.devicons {
+  font-size: 4em;
+  color: #000;
+  margin: 0 .25em;
+}
+
+.devicons-html5 {
+  color: #E34C26;
+}
+
+.devicons-css3 {
+  color: #0b73b8;
+}
+
+.devicons-bootstrap {
+  color: #401F7C;
+}
+
+.devicons-wordpress {
+  color: #21759b;
+}
+
+.devicons-javascript {
+  background: #f0db4f;
+}
+
+.devicons-jquery {
+  color: #0769AD;
+}
+
+.devicons-angular {
+  color: #e62a39;
+}
+
+.devicons-cloud9 {
+  color: #237cc5;
+}
+.devicons-git {
+  color: #ee513b;
+}
+.devicons-sass {
+    color: #c6538c;
+}
+.devicons-php {
+    color: #8892BF;
+}
+.devicons-python {
+    color:#FFE05C;
+}
+.devicons-ruby {
+    color:#CC342D;
+}
+
+
+.devicons {
+  transition: 1s all;
+  font-size: 4em;
+  &:hover {
+    font-size: 3.5em;
+  }
+}

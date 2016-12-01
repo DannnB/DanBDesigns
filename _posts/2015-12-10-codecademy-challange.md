@@ -1,9 +1,10 @@
 ---
 layout:     post
-title:      Codecademy Pro Full Stack Challenge 
+title:      Codecademy Pro Full Stack Challenge
 date:       2015-12-10 00:01:00
 summary:    A one month challenge using Codecademy Pro. Follow me on twitter for updates. HTML/CSS, Javascript,  jQuery, AngularJS, Ruby. Come read my plan and what I'd like to have by the end of it.
 categories: code month web development codecademy javascript jquery
+post-type: blogpost
 ---
 
 ### One month challenge to see how far I can get
@@ -15,7 +16,7 @@ I have decided to create this challenge for myself so I can improve my skills in
 4. AngularJS
 5. Ruby
 6. Ruby on Rails
-7. Rails Authentication 
+7. Rails Authentication
 
 *To note: I will be skipping HTML/CSS for now because I know a lot already.*
 
@@ -27,12 +28,12 @@ Be confident in Frontend development and be able to use Backend technologies to 
 
 1. Javascript + Final Project
 
-##### Week 2 
+##### Week 2
 
 1. jQuery + Final Project
 2. Start AngularJS
 
-##### Week 3 
+##### Week 3
 
 1. Finish AngularJS + Final Project
 2. Start Ruby + Final Project
@@ -47,7 +48,7 @@ I have a 10 days off for Christmas, so as well as being merry I plan this to be 
 4. Write about my experience and if I would recommend Codecademy Pro/Free and hopefully be a lot more confident in development!
 
 
-### Conclusion 
+### Conclusion
 That's my rough plan, things can pop up but it should work.
 
 If you have any questions, suggestions or just want to chat please DM or tweet to me on [my Twitter here](https://twitter.com/DanBDesigns){:target="_blank"}.

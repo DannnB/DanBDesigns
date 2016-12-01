@@ -1,7 +1,19 @@
 ---
 layout: default
 ---
-
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <h1>Web Developer &amp; Designer</h1>
+      <p>I am a Web Developer and Designer from Worcester, UK. I enjoy CSS styling and using front-end development tools. Working full-time, I develop and learn away from work as much as I can. If you like collections of inspirational design have a <a href="https://www.pinterest.com/DanBDesigns/" target="_blank">look at my Pinterest</a> where I collect my favorite designs.<br><br> <a href="http://danbdesigns.co.uk/about/">Read More</a> or contact me for a quote, service or chat <a href="http://danbdesigns.co.uk/contact/">here</a> and I will get back to you.</p>
+    </div>
+    <div class="col-md-6">
+      <h2>Current Projects/Challenges</h2>
+      <h3><a href="/blog/2016/01/14/codecademy-challange-final.html" style="text-decoration:underline;">Codecademy Pro Challenge Final Thoughts</a></h3>
+      <h3><a href="http://danbdesigns.co.uk/blog/2015/12/10/codecademy-challange.html" style="text-decoration:underline;">Codecademy Pro Full Stack One Month Challenge</a></h3>
+    </div>
+  </div>
+</div>
 <div class="home">
 <h1>Web Developer &amp; Designer</h1>
         <p>I am a Web Developer and Designer from Worcester, UK. I enjoy CSS styling and using front-end development tools. Working full-time, I develop and learn away from work as much as I can. If you like collections of inspirational design have a <a href="https://www.pinterest.com/DanBDesigns/" target="_blank">look at my Pinterest</a> where I collect my favorite designs.<br><br> <a href="http://danbdesigns.co.uk/about/">Read More</a> or contact me for a quote, service or chat <a href="http://danbdesigns.co.uk/contact/">here</a> and I will get back to you.
@@ -9,15 +21,15 @@ layout: default
         <h2>Current Projects/Challenges</h2>
         <h3><a href="/blog/2016/01/14/codecademy-challange-final.html" style="text-decoration:underline;">Codecademy Pro Challenge Final Thoughts</a></h3>
         <h3><a href="http://danbdesigns.co.uk/blog/2015/12/10/codecademy-challange.html" style="text-decoration:underline;">Codecademy Pro Full Stack One Month Challenge</a></h3>
-        
+
         <br>
     <a class="fa fa-behance" href="https://www.behance.net/DanB-Designs" title="Dan B Graphic & Web Designer Behance" target="_blank"></a>
     <a class="fa fa-facebook" href="https://www.facebook.com/danbgraphicdesign" title="Dan B Graphic & Web Designer Facebook" target="_blank"></a>
     <a class="fa fa-pinterest " href="https://www.pinterest.com/DanBDesigns" title="Dan B Graphic & Web Designer Pinterest" target="_blank"></a>
         <a class="fa fa-github " href="https://github.com/DannnB" title="Dan B Graphic & Web Designer Github" target="_blank"></a>
     <hr>
-        
-        
+
+
 <div class="clearfix">
     <div class="col col-12">
         <div class="app-block center">
@@ -30,8 +42,8 @@ layout: default
         <i class="devicons devicons-bootstrap" title="Bootstrap">
         </i>
         <i class="devicons devicons-wordpress" title="Wordpress">
-        </i> 
-            
+        </i>
+
         <i class="devicons devicons-javascript" title="JavaScript">
         </i>
         <i class="devicons devicons-jquery" title="jQuery">
@@ -42,7 +54,7 @@ layout: default
         </i>
         <i class="devicons devicons-terminal" title="command line">
         </i>
-            
+
         <i class="devicons devicons-git" title="GIT">
         </i>
         <i class="devicons devicons-sass" title="Sass">
@@ -52,19 +64,20 @@ layout: default
                 <i class="devicons devicons-php" title="PHP"></i>
         <i class="devicons devicons-python" title="Python">
             </i>
-        
+
       </div>
     </div>
 </div>
-        
+
     <!--<div class="clearfix">
   <div class="col col-6">.col.col-6</div>
   <div class="col col-6">.col.col-6</div>
 </div>-->
-        
+
     <h3>Latest Posts:</h3>
   <div class="posts" id="blog-posts">
     {% for post in paginator.posts %}
+    {% if post.post-type contains 'blogpost' %}
       <div class="post py3">
         <p class="post-meta">{{ post.date | date: site.date_format }}</p>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
@@ -76,6 +89,7 @@ layout: default
           {% endif %}
         </p>
       </div>
+      {% endif %}
     {% endfor %}
   </div>
 

@@ -2,23 +2,24 @@
 layout:     post
 title:      Codecademy Pro Challenge Final
 date:       2016-01-14 10:14:08
-summary:    My one month challenge using Codecademy Pro has ended. Come read my final thoughts and what I think about Pro features. 
+summary:    My one month challenge using Codecademy Pro has ended. Come read my final thoughts and what I think about Pro features.
 categories: code month web development codecademy javascript jquery ruby
+post-type: blogpost
 ---
 
 ## Week 2 & 3 update with final thoughts
 
 ### Time-frame
-I'd like to say that you can get the Full Stack course + projects done in a month. However, if you want it to stick then it might not be the best way to go about learning it all. 
+I'd like to say that you can get the Full Stack course + projects done in a month. However, if you want it to stick then it might not be the best way to go about learning it all.
 
 Personally I like to make sure I remember most of it and if not all just enough so I can debug my syntax/lookup.
 
 I bet someone would be able to complete everything in the Pro Full Stack Path. Including the final projects. *Could you do it?*
 
 ### After #CodeMonth
-Once I have completed the main lessons I plan to pay for another month to complete the projects. 
+Once I have completed the main lessons I plan to pay for another month to complete the projects.
 
-It's worth the money for me at $20(£13) 
+It's worth the money for me at $20(£13)
 *Let us use paypal though! Silly £1.25 card charge!*
 
 I will most likely keep paying if Codecademy adds more courses an quizzes/projects.
@@ -26,9 +27,9 @@ I will most likely keep paying if Codecademy adds more courses an quizzes/projec
 ## Learning New Stuff!
 
 ### JavaScript
-Finally I am beginning to understand the concepts I struggled with. I'm now starting to be confident in understanding what a script is doing. 
+Finally I am beginning to understand the concepts I struggled with. I'm now starting to be confident in understanding what a script is doing.
 
-The *"Introduction to Objects 1 & 2"* explains OPP (Object Oriented Programming) really well. 
+The *"Introduction to Objects 1 & 2"* explains OPP (Object Oriented Programming) really well.
 
 I recommend these sections to anyone who is confused about this advance part of JavaScript. It will help with understanding other languages.
 
@@ -43,7 +44,7 @@ Example of getting password from user input rather than doing as the lessons say
 	console.log(myBalance);
 
 **Further Reading:**
-A book (Online & Print) that I have been reading is [Eloquent Javascript](http://eloquentjavascript.net/ "Eloquent Javascript"). It aims to explain  programming concepts over teaching you the syntax. 
+A book (Online & Print) that I have been reading is [Eloquent Javascript](http://eloquentjavascript.net/ "Eloquent Javascript"). It aims to explain  programming concepts over teaching you the syntax.
 
 ### AngularJS
 Couple of nights I had and error while it sets up the workspace `Opps! Please try again later.` after a Goggle search I found out its to do with Codecademy's servers. Left it for couple of hours and it was fine.
@@ -55,5 +56,3 @@ AngularJS 2 is soon to be released but I am looking into using React by Facebook
 Now that I am at the end of my challenge I plan to go though it again recapping parts. This will enable me to refresh syntax ready for when I start some little projects to put it all into practice.
 
 Hope on over to my [experiments page]({{ site.baseurl }}/experiments/ "My Web Experiments") and discover what I've been messing with.
-
-

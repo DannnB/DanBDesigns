@@ -4,6 +4,7 @@ title:      Career Skills - Learning Your Path Into Development
 date:       2015-11-22 18:26:32
 summary:    This video help me on deciding what route I should take while learning. I've ticked off a lot since I saw it a while ago!
 categories: git web
+post-type: blogpost
 ---
 
 

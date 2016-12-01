@@ -3,8 +3,17 @@
   <channel>
     <title>Web Developer &amp; Designer</title>
     <description>Dan B is a creative Web Developer &amp; Designer from the midlands.</description>
-    <link>http://danbdesigns.co.uk/</link>
-    <atom:link href="http://danbdesigns.co.uk/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Marcy Cards</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 Nov 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/2016/11/21/marcycards.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/11/21/marcycards.html</guid>
+      </item>
     
       <item>
         <title>Codecademy Pro Challenge Final</title>
@@ -20,7 +29,7 @@
 &lt;h3 id=&quot;after-codemonth&quot;&gt;After #CodeMonth&lt;/h3&gt;
 &lt;p&gt;Once I have completed the main lessons I plan to pay for another month to complete the projects.&lt;/p&gt;
 
-&lt;p&gt;It’s worth the money for me at $20(£13) 
+&lt;p&gt;It’s worth the money for me at $20(£13)
 &lt;em&gt;Let us use paypal though! Silly £1.25 card charge!&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I will most likely keep paying if Codecademy adds more courses an quizzes/projects.&lt;/p&gt;
@@ -59,11 +68,10 @@ A book (Online &amp;amp; Print) that I have been reading is &lt;a href=&quot;htt
 &lt;p&gt;Now that I am at the end of my challenge I plan to go though it again recapping parts. This will enable me to refresh syntax ready for when I start some little projects to put it all into practice.&lt;/p&gt;
 
 &lt;p&gt;Hope on over to my &lt;a href=&quot;/experiments/&quot; title=&quot;My Web Experiments&quot;&gt;experiments page&lt;/a&gt; and discover what I’ve been messing with.&lt;/p&gt;
-
 </description>
         <pubDate>Thu, 14 Jan 2016 10:14:08 +0000</pubDate>
-        <link>http://danbdesigns.co.uk/blog/2016/01/14/codecademy-challange-final.html</link>
-        <guid isPermaLink="true">http://danbdesigns.co.uk/blog/2016/01/14/codecademy-challange-final.html</guid>
+        <link>http://localhost:4000/blog/2016/01/14/codecademy-challange-final.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/01/14/codecademy-challange-final.html</guid>
       </item>
     
       <item>
@@ -131,8 +139,8 @@ A book (Online &amp;amp; Print) that I have been reading is &lt;a href=&quot;htt
 &lt;p&gt;&lt;img src=&quot;/images/code-month/progress-02.jpg&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 18 Dec 2015 13:36:48 +0000</pubDate>
-        <link>http://danbdesigns.co.uk/blog/2015/12/18/codecademy-challange-week-1-2.html</link>
-        <guid isPermaLink="true">http://danbdesigns.co.uk/blog/2015/12/18/codecademy-challange-week-1-2.html</guid>
+        <link>http://localhost:4000/blog/2015/12/18/codecademy-challange-week-1-2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2015/12/18/codecademy-challange-week-1-2.html</guid>
       </item>
     
       <item>
@@ -195,8 +203,8 @@ Be confident in Frontend development and be able to use Backend technologies to 
 &lt;p&gt;&lt;img src=&quot;/images/code-month/progress-01.jpg&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Dec 2015 00:01:00 +0000</pubDate>
-        <link>http://danbdesigns.co.uk/blog/2015/12/10/codecademy-challange.html</link>
-        <guid isPermaLink="true">http://danbdesigns.co.uk/blog/2015/12/10/codecademy-challange.html</guid>
+        <link>http://localhost:4000/blog/2015/12/10/codecademy-challange.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2015/12/10/codecademy-challange.html</guid>
       </item>
     
       <item>
@@ -207,7 +215,7 @@ Be confident in Frontend development and be able to use Backend technologies to 
 
 &lt;p&gt;This is why I chose &lt;a href=&quot;https://jekyllrb.com/&quot; title=&quot;Jekyll&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Before, I could not do anything with Front End tools but now I have got much further where I can move on to the next level. Plus &lt;a href=&quot;http://www.pixyll.com&quot; title=&quot;Pixyll&#39;s Website&quot; target=&quot;_blank&quot;&gt;Pixyll&lt;/a&gt; theme is beautiful.&lt;/p&gt;
+&lt;p&gt;Before, I could not do anything with Front End tools but now I have got much further where I can move on to the next level. Plus &lt;a href=&quot;http://www.pixyll.com&quot; title=&quot;Pixyll's Website&quot; target=&quot;_blank&quot;&gt;Pixyll&lt;/a&gt; theme is beautiful.&lt;/p&gt;
 
 &lt;p&gt;Over 8 hours, I have this site with content up and running. It took a while for me to get to grips with different things like getting it to build without errors! I do find that a lot of these frameworks don’t help the newbies. &lt;em&gt;I still have yet to get the new &lt;a href=&quot;http://foundation.zurb.com/sites.html&quot; title=&quot;Foudnation 6 Website&quot; target=&quot;_blank&quot;&gt;Foundation 6&lt;/a&gt; to build.&lt;/em&gt; Will assign a free day to get that working!&lt;/p&gt;
 
@@ -220,8 +228,8 @@ Be confident in Frontend development and be able to use Backend technologies to 
 &lt;p&gt;DanB&lt;/p&gt;
 </description>
         <pubDate>Tue, 24 Nov 2015 01:15:25 +0000</pubDate>
-        <link>http://danbdesigns.co.uk/blog/2015/11/24/wordpress-to-jekyll.html</link>
-        <guid isPermaLink="true">http://danbdesigns.co.uk/blog/2015/11/24/wordpress-to-jekyll.html</guid>
+        <link>http://localhost:4000/blog/2015/11/24/wordpress-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2015/11/24/wordpress-to-jekyll.html</guid>
       </item>
     
       <item>
@@ -324,8 +332,8 @@ Be confident in Frontend development and be able to use Backend technologies to 
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw&quot; target=&quot;_blank&quot;&gt;YouTube Coding&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 Nov 2015 12:30:00 +0000</pubDate>
-        <link>http://danbdesigns.co.uk/blog/2015/11/23/a-simple-git-gude-for-windows-users.html</link>
-        <guid isPermaLink="true">http://danbdesigns.co.uk/blog/2015/11/23/a-simple-git-gude-for-windows-users.html</guid>
+        <link>http://localhost:4000/blog/2015/11/23/a-simple-git-gude-for-windows-users.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2015/11/23/a-simple-git-gude-for-windows-users.html</guid>
       </item>
     
       <item>
@@ -338,8 +346,8 @@ Be confident in Frontend development and be able to use Backend technologies to 
 &lt;p&gt;####Thank you to &lt;a href=&quot;https://www.youtube.com/user/learncodeacademy&quot; title=&quot;LearnCode.academy on YouTube&quot; target=&quot;_blank&quot;&gt;LearnCode.academy on YouTube&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 22 Nov 2015 18:26:32 +0000</pubDate>
-        <link>http://danbdesigns.co.uk/blog/2015/11/22/best-video-for-your-career.html</link>
-        <guid isPermaLink="true">http://danbdesigns.co.uk/blog/2015/11/22/best-video-for-your-career.html</guid>
+        <link>http://localhost:4000/blog/2015/11/22/best-video-for-your-career.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2015/11/22/best-video-for-your-career.html</guid>
       </item>
     
       <item>
@@ -354,8 +362,8 @@ Be confident in Frontend development and be able to use Backend technologies to 
 &lt;ol&gt;
   &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;C:\Ruby22&lt;/code&gt; (Better to install at C)&lt;/li&gt;
   &lt;li&gt;Add ruby executables&lt;/li&gt;
-  &lt;li&gt;Associate files&lt;/li&gt;
-  &lt;li&gt;
+  &lt;li&gt;Associate files
+4.
     &lt;h5 id=&quot;install-devkit&quot;&gt;INSTALL DEVKIT&lt;/h5&gt;
   &lt;/li&gt;
   &lt;li&gt;Extract to &lt;code class=&quot;highlighter-rouge&quot;&gt;C:\devkit&lt;/code&gt; (Better to install at C, can be anywhere though)&lt;/li&gt;
@@ -398,8 +406,17 @@ Be confident in Frontend development and be able to use Backend technologies to 
 &lt;/ol&gt;
 </description>
         <pubDate>Sat, 21 Nov 2015 18:26:32 +0000</pubDate>
-        <link>http://danbdesigns.co.uk/blog/2015/11/21/FoundationApp-for-Windows-Users.html</link>
-        <guid isPermaLink="true">http://danbdesigns.co.uk/blog/2015/11/21/FoundationApp-for-Windows-Users.html</guid>
+        <link>http://localhost:4000/blog/2015/11/21/FoundationApp-for-Windows-Users.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2015/11/21/FoundationApp-for-Windows-Users.html</guid>
+      </item>
+    
+      <item>
+        <title>Inspired Collective</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/2015/11/21/inspiredcollective.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2015/11/21/inspiredcollective.html</guid>
       </item>
     
   </channel>
