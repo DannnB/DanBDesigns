@@ -1,151 +1,34 @@
 ---
 layout: default
 ---
-<div class="container">
-  <div class="row">
-    <div class="col-md-6">
-      <h1>Web Developer &amp; Designer</h1>
-      <p>I am a Web Developer and Designer from Worcester, UK. I enjoy CSS styling and using front-end development tools. Working full-time, I develop and learn away from work as much as I can. If you like collections of inspirational design have a <a href="https://www.pinterest.com/DanBDesigns/" target="_blank">look at my Pinterest</a> where I collect my favorite designs.<br><br> <a href="http://danbdesigns.co.uk/about/">Read More</a> or contact me for a quote, service or chat <a href="http://danbdesigns.co.uk/contact/">here</a> and I will get back to you.</p>
-    </div>
-    <div class="col-md-6">
-      <h2>Current Projects/Challenges</h2>
-      <h3><a href="/blog/2016/01/14/codecademy-challange-final.html" style="text-decoration:underline;">Codecademy Pro Challenge Final Thoughts</a></h3>
-      <h3><a href="http://danbdesigns.co.uk/blog/2015/12/10/codecademy-challange.html" style="text-decoration:underline;">Codecademy Pro Full Stack One Month Challenge</a></h3>
+<div class="row">
+  <div class="col-md-6">
+    <h1>THE WEBS A BIG PLACE</h1>
+    <p>I am a Web Developer and Designer from Worcester, UK. I enjoy CSS styling and using front-end development tools. Working full-time, I develop and learn away from work as much as I can. If you like collections of inspirational design have a <a href="https://www.pinterest.com/DanBDesigns/" target="_blank">look at my Pinterest</a> where I collect my favorite designs.<a href="http://danbdesigns.co.uk/about/">Read More</a> or contact me for a quote, service or chat <a href="http://danbdesigns.co.uk/contact/">here</a> and I will get back to you.</p>
+  </div>
+  <div class="col-md-6">
+    <div class="app-block center">
+      {% include devicons.html %}
     </div>
   </div>
 </div>
-<div class="home">
-<h1>Web Developer &amp; Designer</h1>
-        <p>I am a Web Developer and Designer from Worcester, UK. I enjoy CSS styling and using front-end development tools. Working full-time, I develop and learn away from work as much as I can. If you like collections of inspirational design have a <a href="https://www.pinterest.com/DanBDesigns/" target="_blank">look at my Pinterest</a> where I collect my favorite designs.<br><br> <a href="http://danbdesigns.co.uk/about/">Read More</a> or contact me for a quote, service or chat <a href="http://danbdesigns.co.uk/contact/">here</a> and I will get back to you.
-</p>
-        <h2>Current Projects/Challenges</h2>
-        <h3><a href="/blog/2016/01/14/codecademy-challange-final.html" style="text-decoration:underline;">Codecademy Pro Challenge Final Thoughts</a></h3>
-        <h3><a href="http://danbdesigns.co.uk/blog/2015/12/10/codecademy-challange.html" style="text-decoration:underline;">Codecademy Pro Full Stack One Month Challenge</a></h3>
-
-        <br>
-    <a class="fa fa-behance" href="https://www.behance.net/DanB-Designs" title="Dan B Graphic & Web Designer Behance" target="_blank"></a>
-    <a class="fa fa-facebook" href="https://www.facebook.com/danbgraphicdesign" title="Dan B Graphic & Web Designer Facebook" target="_blank"></a>
-    <a class="fa fa-pinterest " href="https://www.pinterest.com/DanBDesigns" title="Dan B Graphic & Web Designer Pinterest" target="_blank"></a>
-        <a class="fa fa-github " href="https://github.com/DannnB" title="Dan B Graphic & Web Designer Github" target="_blank"></a>
-    <hr>
-
-
-<div class="clearfix">
-    <div class="col col-12">
-        <div class="app-block center">
-        <i class="devicons devicons-html5" title="HTML5">
-      </i>
-        <i class="devicons devicons-markdown" title="Markdown">
-      </i>
-        <i class="devicons devicons-css3" title="CSS3">
-        </i>
-        <i class="devicons devicons-bootstrap" title="Bootstrap">
-        </i>
-        <i class="devicons devicons-wordpress" title="Wordpress">
-        </i>
-
-        <i class="devicons devicons-javascript" title="JavaScript">
-        </i>
-        <i class="devicons devicons-jquery" title="jQuery">
-        </i>
-        <i class="devicons devicons-angular" title="AngularJS">
-        </i>
-            <i class="devicons devicons-cloud9" title="Cloud9">
-        </i>
-        <i class="devicons devicons-terminal" title="command line">
-        </i>
-
-        <i class="devicons devicons-git" title="GIT">
-        </i>
-        <i class="devicons devicons-sass" title="Sass">
-            </i>
-        <i class="devicons devicons-ruby" title="Ruby">
-            </i>
-                <i class="devicons devicons-php" title="PHP"></i>
-        <i class="devicons devicons-python" title="Python">
-            </i>
-
-      </div>
-    </div>
-</div>
-
-    <!--<div class="clearfix">
-  <div class="col col-6">.col.col-6</div>
-  <div class="col col-6">.col.col-6</div>
-</div>-->
-
+<div class="row blog-posts" id="blog-posts">
     <h3>Latest Posts:</h3>
-  <div class="posts" id="blog-posts">
-    {% for post in paginator.posts %}
-    {% if post.post-type contains 'blogpost' %}
-      <div class="post py3">
-        <p class="post-meta">{{ post.date | date: site.date_format }}</p>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
-        <p class="post-summary">
-          {% if post.summary %}
-            {{ post.summary }}
-          {% else %}
-            {{ post.excerpt }}
-          {% endif %}
-        </p>
+
+      {% for post in paginator.posts %}
+      <div class="col-md-6">
+      {% if post.post-type contains 'blogpost' %}
+          {{ post.date | date: site.date_format }}
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
+          <p class="post-summary">
+            {% if post.summary %}
+              {{ post.summary }}
+            {% else %}
+              {{ post.excerpt }}
+            {% endif %}
+          </p>
+        {% endif %}
       </div>
-      {% endif %}
-    {% endfor %}
-  </div>
-
+      {% endfor %}
+    </div>
   {% include pagination.html %}
-<div class="skills-row">
-            <div class="skills-col">
-                <h5>Frontend Design</h5>
-                <ul>
-                    <li>Responsive Sites</li>
-                    <li>SEO</li>
-                    <li>Web/Android Hybrid Apps</li>
-                    <li>E-Commence</li>
-                </ul>
-
-                <h5>CMS</h5>
-                <ul>
-                    <li>WordPress</li>
-                    <li>Pico - File Based CMS</li>
-                    <li>Kirby - File Based CMS</li>
-                    <li>Jekyll</li>
-                </ul>
-            </div>
-            <div class="skills-col">
-                <h5>Coding</h5>
-                <ul>
-                    <li>HTML 5</li>
-                    <li>CSS 3 / SASS / LESS</li>
-                    <li>jQuery</li>
-                    <li>Javascript</li>
-                    <li>AngularJS</li>
-                    <li>Php/MySQL</li>
-                    <li>Markdown</li>
-                </ul>
-                <h5>Other</h5>
-                <ul>
-                    <li>Git</li>
-                    <li>Game Servers</li>
-                    <li>Game Mods/Scripting</li>
-                </ul>
-            </div>
-            <div class="skills-col">
-                <h5>Frameworks</h5>
-                <ul>
-                    <li>Foundation 5, 6 &amp; Apps</li>
-                    <li>Bootstrap 3</li>
-                </ul>
-                <h5>Print</h5>
-                <ul>
-                    <li>Posters</li>
-                    <li>Flyers</li>
-                    <li>Business Stationery &amp; Cards</li>
-                    <li>Logos &amp; Branding</li>
-                    <li>Magazines &amp; Publications</li>
-                </ul>
-            </div>
-        </div>
-
-
-</div>

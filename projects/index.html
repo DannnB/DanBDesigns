@@ -9,12 +9,12 @@ permalink: /projects/
 {% for post in site.posts %}
   {% if post.post-type contains 'project' %}
 	<div class="row project-row">
-    <div class="col-md-6 col-sm-6 col-xs-12 project-{{ post.align[0] }}" style="backgroundedd: url({{ post.background }});">
+    <div class="col-md-6 col-sm-6 col-xs-12 project-{{ post.align[0] }}" style="background: {{ post.titleBackground }};">
       <h2>{{ post.title }}</h2>
       <em>Technology: {{ post.technology }}</em>
       <p>Client: {{ post.client }}</p>
     </div>
-    <div class="col-md-6 col-sm-6 col-xs-12 project-{{ post.align[1] }}">
+    <div class="col-md-6 col-sm-6 col-xs-12 project-{{ post.align[1] }}" style="background: {{ post.contentBackground[0] }};color: {{ post.contentBackground[1] }};">
       {{ post.content }}
     </div>
 
