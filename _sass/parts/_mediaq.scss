@@ -1,0 +1,29 @@
+@media screen and (max-width: 767px){
+  .navbar.main {
+    background: black;
+    position: fixed;
+    width:100%;
+    border:0;
+    z-index: 1;
+    padding-top:15px;
+    overflow-x: hidden;
+    #navbar {
+      height: 100%;
+      width: 100%;
+      position: fixed;
+      z-index: 1;
+      left: 0;
+      top: 65px;
+      background-color: black;
+      background-color: rgba(0, 0, 0, 0.9);
+      overflow-x: hidden;
+      margin: 0;
+      transition: 0.4s;
+      text-align: center;
+    }
+  }
+}
+// For some mobile screens/landscape
+@media screen and (max-height: 450px) {
+
+}

@@ -13,17 +13,27 @@
   * {
     color:white!important;
   }
+
 }
 
 .head-hero {
-  background:url('../images/space.jpg');
+  background:url('../images/sky.jpg');
   background-repeat: no-repeat;
-  background-position: 50%;
+  background-position: center right;
   background-size: cover;
   display: block;
   height:600px;
   .hero-inner {
     padding-top:100px;
     color:white;
+  }
+  a {
+    color: #ccc;
+    text-decoration: underline;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    &:hover {
+      color:#fff;
+    }
   }
 }
